@@ -7,3 +7,5 @@ A repo of my blog posts each accompanied with notebooks.
 Understanding the roots of Inverse Propensity Weighting through a simple example.
 
 * [Variance Reduction in Experiments-Part 1: Intuition](https://medium.com/@murat.unal/variance-reduction-in-experiments-part-1-intuition-68b270a0df71)
+
+The intuition behind variance reduction and why it is important in randomized experiments.
